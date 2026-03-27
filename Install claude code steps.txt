@@ -1,0 +1,18 @@
+Install claude
+
+1. https://claude.com/download
+
+2.https://claude.com/download - node.js installation
+
+3.npm --version 
+
+4. node --version
+
+5. git installation - https://git-scm.com/install/windows
+
+6.https://code.claude.com/docs/en/quickstart
+
+command to install claude code -
+
+curl -fsSL https://claude.ai/install.cmd -o install.cmd && install.cmd && del install.cmd
+
